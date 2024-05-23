@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MEARN**
 
-- 📫 How to reach me **dev.harikrishnan@gmail.com**
+- 📫 How to reach me **dev.harikrishnanr@gmail.com**
 
 - 📄 Know about my experiences [linkk](linkk)
 
