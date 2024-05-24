@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **dev.harikrishnanr@gmail.com**
 
-- 📄 Know about my experiences [linkk](linkk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
