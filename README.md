@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Harikrishnan R</h1>
-<h3 align="center">A passionate self-taught frontend developer from India</h3>
+# Hey 👋, I'm Harikrishnan R
+I'm a passionate developer currently diving deep into the MERN stack. I love building dynamic web applications and exploring the latest web technologies. My journey as a developer is driven by a thirst for knowledge and a commitment to crafting efficient, user-friendly solutions.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harikrishnanr-dev&label=Profile%20views&color=0e75b6&style=flat" alt="harikrishnanr-dev" /> </p>
+# 💫 About Me:
+💻 Currently Learning: MERN Stack (MongoDB, Express.js, React.js, Node.js).<br>🌱 Goals: To master full-stack development and build scalable web applications.<br>⚡ Fun Fact: I enjoy diving into new tech tools to stay ahead of the curve and expand my skill set!<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harikrishnanr-dev" alt="harikrishnanr-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devharikrishnanr/)
 
-- 🌱 I’m currently learning **MEARN**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-- 📫 How to reach me **dev.harikrishnanr@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
